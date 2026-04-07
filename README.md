@@ -12,23 +12,6 @@ Aplicación fullstack de videoclub de anime con frontend en React y backend en S
 ### Catálogo de películas
 ![Catálogo de películas](./images/frontend-movies.png)
 
----
-
-## 📸 Capturas de pantalla - Postman
-
-### GET - Obtener todas las películas
-![GET todas las películas](./images/postman-get.png)
-
-### GET - Obtener película por ID
-![GET película por ID](./images/postman-get-id.png)
-
-### GET - Obtener película por ID (detalle)
-![GET película por ID detalle](./images/postman-get-by-id.png)
-
-### DELETE - Eliminar película
-![DELETE película](./images/postman-delete.png)
-
----
 
 ## 🗂️ Estructura del proyecto
 
